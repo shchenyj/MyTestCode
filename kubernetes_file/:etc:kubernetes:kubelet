@@ -1,1 +1,0 @@
-KUBELET_ARGS="--api-servers=http://192.168.56.101:8080 --hostname-override=192.168.56.102 --logtostderr=false --log-dir=/var/log/kubernetes --v=2"
